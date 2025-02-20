@@ -1,0 +1,13 @@
+# Sample student submissions
+Student Name,Assignment,Status,Due Date
+John Doe,Lab 1,Submitted,2023-10-15
+Jane Smith,Lab 2,Pending,2023-10-20
+Alice Johnson,Lab 1,Submitted,2023-10-15
+Bob Brown,Lab 2,Submitted,2023-10-20
+Charlie Davis,Lab 1,Pending,2023-10-15
+# Add 5 more records below
+Eva Green,Lab 3,Submitted,2023-10-25
+Frank White,Lab 3,Pending,2023-10-25
+Grace Black,Lab 4,Submitted,2023-10-30
+Henry Blue,Lab 4,Pending,2023-10-30
+Ivy Yellow,Lab 5,Submitted,2023-11-05
